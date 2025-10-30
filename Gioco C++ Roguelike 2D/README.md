@@ -42,7 +42,7 @@ Durante il gioco, possono apparire messaggi come:
 
 | `|`    | Muro                                 | Impedisce il movimento                              |                        |
 
-| `-`     | Pavimento                            | Impedisce l’accesso a certe aree                   |                        |
+| `-`     | Pavimento                            | Impedisce il movimento                             |                        |
 
 | `/`     | Porta                                | Può essere aperta solo con una chiave              |                        |
 
