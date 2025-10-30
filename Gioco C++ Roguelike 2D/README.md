@@ -1,9 +1,7 @@
 ## Descrizione
 Il seguente è un gioco che ho sviluppato in terza superiore, al primo anno di programmazione, ma lasciato incompleto.
 Si svolge su una mappa bidimensionale di caratteri ASCII, tutte le entità (eroe, orchi, oggetti, muri, ecc.) sono rappresentate da simboli testuali.
-
 L'obbiettivo in questo roguelike 2D è quello di progredire nei livelli arrivando al tesoro.
-
 Tutto il gioco si muove in maniera dipendente dal protagonista, ad ogni pressione di un tasto il personaggio compierà un'azione, e uguale ogni altra entità del gioco compierà una sola azione (che nel caso degli orchi è un movimento casuale all'interno di un determinato range).
 #### Per test si consiglia di seguire "Obbiettivi livello 1"
 
