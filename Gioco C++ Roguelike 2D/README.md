@@ -23,20 +23,32 @@ Durante il gioco, possono apparire messaggi come:
 
 ## Tasti
 | **Freccia ↑**     | Muovi l’eroe verso l’alto                                                      |
+
 | **Freccia ↓**     | Muovi l’eroe verso il basso                                                    |
+
 | **Freccia ←**     | Muovi l’eroe verso sinistra                                                    |
+
 | **Freccia →**     | Muovi l’eroe verso destra                                                      |
+
 | **W / A / S / D** | Attacca con la spada in quella direzione *(solo se la spada è nello zainetto)* |
+
 | **Q**             | Esci dal gioco                                                                 |
 
 ## Elementi mappa
 | `@`     | Eroe                                 | Controllato dal giocatore                          |                        |
+
 | `#`     | Orco                                 | Si muove casualmente, toccarlo fa perdere una vita |                        |
+
 | `       | `                                    | Muro                                               | Impedisce il movimento |
+
 | `-`     | Pavimento                            | Impedisce l’accesso a certe aree                   |                        |
+
 | `/`     | Porta                                | Può essere aperta solo con una chiave              |                        |
+
 | `F`     | Chiave                               | Serve per aprire una porta                         |                        |
+
 | `%`     | Spada                                | Serve per uccidere orchi                           |                        |
+
 | `♥`     | Vita residua (visualizzata in basso) |                                                    |                        |
 
 ## Cose mancanti
