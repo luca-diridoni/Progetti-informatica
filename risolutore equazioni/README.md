@@ -1,5 +1,5 @@
 ## Descrizione
-Risolutore di Equazioni è un programma con interfaccia grafica (GUI) realizzato in Python che permette di calcolare le soluzioni di equazioni polinomiali di secondo, terzo e quarto grado.
+Il Risolutore di Equazioni è un programma con interfaccia grafica (GUI) realizzato in Python che permette di calcolare le soluzioni di equazioni polinomiali di secondo, terzo e quarto grado.
 Utilizza la libreria Tkinter per la parte grafica e NumPy per il calcolo delle radici.
 
 ## Funzionalità
@@ -20,4 +20,5 @@ Utilizza la libreria Tkinter per la parte grafica e NumPy per il calcolo delle r
 ## Requisiti
 - Python 3.x
 - Librerie: numpy, tkinter
+
 
