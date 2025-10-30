@@ -40,7 +40,7 @@ Durante il gioco, possono apparire messaggi come:
 
 | `#`     | Orco                                 | Si muove casualmente, toccarlo fa perdere una vita |                        |
 
-| `| `    | Muro                                 | Impedisce il movimento |
+| `|`    | Muro                                 | Impedisce il movimento                              |                        |
 
 | `-`     | Pavimento                            | Impedisce l’accesso a certe aree                   |                        |
 
