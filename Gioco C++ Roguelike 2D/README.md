@@ -19,8 +19,8 @@ Durante il gioco, possono apparire messaggi come:
 ## Obbiettivi livello 1
 1. Raccogli la chiave (F) per aprire la porta (/).
 2. Raccogli la spada (%) per poter uccidere gli orchi.
-- Evita il contatto diretto con gli orchi, altrimenti perdi una vita (♥).
-- Se le vite scendono a zero → Game Over.
+3. Evita il contatto diretto con gli orchi, altrimenti perdi una vita (♥).
+4. Se le vite scendono a zero → Game Over.
 
 ## Tasti
 | **Freccia ↑**     | Muovi l’eroe verso l’alto                                                      |
@@ -40,7 +40,7 @@ Durante il gioco, possono apparire messaggi come:
 
 | `#`     | Orco                                 | Si muove casualmente, toccarlo fa perdere una vita |                        |
 
-| `       | `                                    | Muro                                               | Impedisce il movimento |
+| `| `    | Muro                                 | Impedisce il movimento |
 
 | `-`     | Pavimento                            | Impedisce l’accesso a certe aree                   |                        |
 
