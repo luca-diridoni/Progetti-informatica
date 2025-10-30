@@ -18,6 +18,6 @@ Utilizza la libreria Tkinter per la parte grafica e NumPy per il calcolo delle r
 4. I risultati appariranno nel riquadro inferiore.
 
 ## Requisiti
-Python 3.x
+- Python 3.x
+- Librerie: numpy, tkinter
 
-numpy, tkinter
