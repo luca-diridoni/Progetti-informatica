@@ -8,8 +8,8 @@ Utilizza la libreria Tkinter per la parte grafica e NumPy per il calcolo delle r
 3. Controllo degli input per evitare errori (es. coefficienti non numerici o coefficiente principale nullo).
 4. Calcolo automatico delle soluzioni reali e complesse.
 5. Visualizzazione dei risultati in un riquadro testuale:
-	Le soluzioni reali vengono mostrate in nero.
-	Le soluzioni complesse vengono evidenziate in rosso.
+	- Le soluzioni reali vengono mostrate in nero.
+	- Le soluzioni complesse vengono evidenziate in rosso.
 	
 ## Utilizzo
 1. Seleziona il grado dell’equazione dal menu a tendina.
@@ -19,4 +19,5 @@ Utilizza la libreria Tkinter per la parte grafica e NumPy per il calcolo delle r
 
 ## Requisiti
 Python 3.x
+
 numpy, tkinter
